@@ -2,4 +2,4 @@ We constructed the codes, where the simulation codes of regular, random, exponen
 
 We also constructed the shared & unshared networks, "reg.mat", "ran.mat", "exp.mat", and "scal.mat" are respectively regular, random, exponential, and scale-free shared networks. In addition, their unshared networks are respectively "rega.mat", "rana.mat", "expa.mat", and "scala.mat".
 
-Furthermore, Initial species distribution is "initialspecies.mat".
+Furthermore, initial species distribution is "initialspecies.mat".
